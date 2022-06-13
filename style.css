@@ -1,0 +1,195 @@
+.one {
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-left: 80px;
+    color: rgb(14, 14, 166);
+}
+.home {
+    color: blue;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: small;
+    margin-left: 190px;
+}
+.about {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: small;
+    margin-left: 15px; 
+    color: rgb(14, 14, 166);
+}
+.ser {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: small;
+    margin-left: 15px;
+    color: rgb(14, 14, 166);
+}
+.por {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: small;
+    margin-left: 15px;
+    color: rgb(14, 14, 166);
+}
+.team {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: small;
+    margin-left: 15px;
+    color: rgb(14, 14, 166);
+}
+.price {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: small;
+    margin-left: 15px;
+    color: rgb(14, 14, 166);
+}
+.drop {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: small;
+    margin-left: 15px;
+    color: rgb(14, 14, 166);
+}
+.icon {
+    height: 15px;
+    width: 20px;
+    margin-top: px;
+    
+}
+.con {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: small;
+    margin-left: 15px;
+    color: rgb(14, 14, 166);
+}
+.last {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: small;
+    border: 1px blue solid;
+    border-radius: 5px;
+    float: right;
+    margin-right: 140px;
+    margin-top: -5px;
+    height: 28px;
+    width: 100px;
+    padding: 10px 0px 0px 25px;
+    color: white;
+    background-color: blue;
+
+}
+.top {
+    background-color: white;
+    height: 50px;
+    padding-top: 14px;
+    border: 1px rgb(197, 192, 192) solid;
+
+}
+.container {
+    background-image: url(./geometric-leaves.png);
+    border: 1px rgb(197, 192, 192) solid;
+    background-size: auto;
+    height: 700px; 
+    width: 1200px;
+    margin-left: 70px;
+}
+h1 {
+    font-size: 60px;
+    font-family: sans-serif;
+    color: rgb(6, 6, 116);
+}
+p {
+    font-family: sans-serif;
+    color: #060674;
+    font-size: 18px;
+    margin-top: -25px;
+}
+.get {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: small;
+    border: 1px blue solid;
+    border-radius: 5px;
+    /* float: right;
+    margin-right: 140px;
+    margin-top: -5px; */
+    height: 28px;
+    width: 100px;
+    padding: 10px 10px 0px 17px;
+    color: white;
+    background-color: blue;
+    margin-left: 530px;
+    
+}
+.centre {
+    text-align: center;
+}
+.content {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 80px;
+}
+.pages {
+    height: 40px;
+    width: 40px;
+    margin-left: 0px;
+}
+.square {
+    height: 30px;
+    width: 30px;
+    margin-left: 0px;
+}
+.paint {
+    height: 30px;
+    width: 30px;
+    margin-left: 0px;
+}
+.finger {
+    height: 30px;
+    width: 30px;
+    margin-left: 0px;
+}
+.box1 {
+    height: 250px;
+    width: 200px;
+    background-color: white;
+    color: #060674;
+    text-align: center;
+    box-shadow: 1px 0px 20px rgb(175, 188, 202);
+    border-radius: 5px;
+}
+.box2 {
+    height: 250px;
+    width: 200px;
+    background-color: white;
+    color: #060674;
+    text-align: center;
+    box-shadow: 1px 0px 20px rgb(175, 188, 202);
+    border-radius: 5px;
+}
+.box3 {
+    height: 250px;
+    width: 200px;
+    background-color: white;
+    color: #060674;
+    text-align: center;
+    box-shadow: 1px 0px 20px rgb(175, 188, 202);
+    border-radius: 5px;
+}
+.box4 {
+    height: 250px;
+    width: 200px;
+    background-color: white;
+    color: #060674;
+    text-align: center;
+    box-shadow: 1px 0px 20px rgb(175, 188, 202);
+    border-radius: 5px;
+}
+
+
+
+
